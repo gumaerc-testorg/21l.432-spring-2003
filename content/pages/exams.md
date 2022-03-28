@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
+parent_uid: null
 title: Exams
 uid: 71f83161-8b27-b96b-2bf3-9337647fcf7a
 ---
