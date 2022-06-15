@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -8,10 +9,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video
 parent_type: CourseSection
-parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Class 3: Television As A Cultural Form'
 uid: bc6265d2-c433-f157-d5ac-fcd6e00d47f6
 video_files:
